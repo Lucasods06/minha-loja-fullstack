@@ -24,11 +24,6 @@ minha-loja-fullstack/
 ├── minha-loja-frontend/ # React (interface)
 └── minha-loja-backend/ # Node.js + API produtos
 
-
-## 📸 Imagem do projeto *(opcional)*
-
-> Você pode adicionar um print futuramente aqui.
-
 ## 🧪 Status
 
 ✔️ Em desenvolvimento  
