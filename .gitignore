@@ -1,0 +1,13 @@
+# Ignora dependências de Node.js
+node_modules/
+
+# Ignora variáveis de ambiente (caso use futuramente)
+.env
+
+# Ignora arquivos do sistema/macOS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
